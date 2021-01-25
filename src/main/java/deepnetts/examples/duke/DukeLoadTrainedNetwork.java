@@ -15,7 +15,11 @@ import javax.visrec.ml.ClassificationException;
 /**
  * This example shows how to load and create instance of trained network from file.
  * 
- * @author Zoran Sevarac <zoran.sevarac@deepnetts.com>
+ * To run this example you need to download and install Deep Netts , which provides free development license.
+ * Follow instructions on
+ * https://www.deepnetts.com/blog/deep-learning-in-java-getting-started-with-deep-netts.html
+ *
+ * For more info about licensing see https://www.deepnetts.com/Deep_Netts_End_User_License_Agreement.pdf
  */
 public class DukeLoadTrainedNetwork {
     

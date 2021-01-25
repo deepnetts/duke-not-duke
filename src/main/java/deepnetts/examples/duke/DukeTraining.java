@@ -31,8 +31,12 @@ import javax.visrec.ri.ml.classification.ImageClassifierNetwork;
 /**
  * Convolutional Neural Network that learns to detect Duke images.
  * Example how to create and train convolutional network for image classification.
- *
- * @author Zoran Sevarac <zoran.sevarac@deepnetts.com>
+ * 
+ * To run this example you need to download and install Deep Netts , which provides free development license.
+ * Follow instructions on
+ * https://www.deepnetts.com/blog/deep-learning-in-java-getting-started-with-deep-netts.html
+ 
+ * For more info about licensing see https://www.deepnetts.com/Deep_Netts_End_User_License_Agreement.pdf
  */
 public class DukeTraining {
 
