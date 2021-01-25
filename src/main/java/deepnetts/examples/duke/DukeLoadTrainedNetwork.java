@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 import javax.visrec.ml.ClassificationException;
 
 /**
- * This example shows how to load and create instance of trained network from file.
+ * This example shows how to load of instance of trained convolutional network from file.
  * 
  * To run this example you need to download and install Deep Netts , which provides free development license.
  * Follow instructions on
